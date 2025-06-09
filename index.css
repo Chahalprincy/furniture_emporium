@@ -30,6 +30,11 @@ p {
     border-radius: 20px;
     color: aliceblue;
     border: none;
+    cursor:grab;
+}
+
+.CartButton:hover {
+    background-color: rgb(3, 113, 127);
 }
 
 #Newprice {
