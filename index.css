@@ -1,0 +1,43 @@
+body{
+        background-color: rgb(218, 196, 196);
+      }
+
+p {
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.main_paragraph {
+    font-size: 13pt;
+}
+
+
+.square {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+    width: 350px;
+    border: 8px  green;
+    padding: 60px;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.CartButton {
+    background-color: rgb(10, 141, 99);
+    width: 380px;
+    height: 4em;
+    font-size: 13pt;
+    border-radius: 20px;
+    color: aliceblue;
+    border: none;
+}
+
+#Newprice {
+    color: rgb(25, 153, 25);
+    font-size: 20pt;
+}
+
+#Oldprice{
+    color:grey;
+    font-size: 12pt;
+}
